@@ -1,0 +1,66 @@
+Python 3.12.4 (tags/v3.12.4:8e8a4ba, Jun  6 2024, 19:30:16) [MSC v.1940 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+"hello world"
+'hello world'
+"venkata ganesh"
+'venkata ganesh'
+if 5 > 2;
+SyntaxError: invalid syntax
+if 5>2:
+    print("five is grater than two")
+
+    
+five is grater than two
+if 5 > 2 :
+    print("five is greater than two")
+
+    
+five is greater than two
+x=5
+y"hello,world!"
+SyntaxError: invalid syntax
+
+x=5
+y="ganesh"
+print(x)
+5
+print(y)
+ganesh
+>>> (x)
+5
+>>> y
+'ganesh'
+>>> print("Hello, World!")
+... 
+Hello, World!
+>>> 
+>>> 
+>>> x=str(3)
+>>> y=int(3)
+>>> z=float(3)
+>>> 
+>>> print(x)
+3
+>>> y
+3
+>>> z
+3.0
+>>> x=5
+>>> y="ganesh"
+>>> print(type(x))
+<class 'int'>
+>>> type(y)
+<class 'str'>
+>>> txt = "Hello World"[::-1]
+... print(txt)
+... 
+SyntaxError: multiple statements found while compiling a single statement
+>>> txt="hello world"[::-1]
+>>> txt
+'dlrow olleh'
+>>> x="ganesh"[::+1]
+>>> x
+'ganesh'
+>>> x="ganesh"[::-1]
+>>> x
+'hsenag'

@@ -1,0 +1,3 @@
+n=int(input("enter a number:")) i<=n:
+f1=n+1
+f2=n+2

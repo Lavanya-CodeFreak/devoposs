@@ -1,0 +1,11 @@
+n=int(input("enter a number"))
+f1=0
+f2=1
+print("the fabonicci sequence is:",f1,f2,end=" ")
+i=3
+while i<=n:
+    f=f1+f2
+    print(f,end=" ")
+    f1=f2
+    f2=f1
+    i=i+1

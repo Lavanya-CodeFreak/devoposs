@@ -1,0 +1,17 @@
+class array
+{
+public static void main(String args[])
+{
+int i,a[]=new int[5];
+  a[0]=10;
+  a[1]=20;
+a[2]=30;
+a[3]=40;
+a[4]=50;
+{
+for(i=0;i<5;i++)
+a=a[0],a[1],a[2],a[3],a[4];
+System.out.println("a");
+}
+}
+}
